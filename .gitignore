@@ -1,0 +1,8 @@
+.DS_Store
+deploy.js
+.cache/
+node_modules
+.env.*
+public/
+cypress/screenshots
+.eslintcache
